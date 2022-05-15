@@ -6,7 +6,7 @@ Google Sheets API 與 LIFF API 串接範例。
 ```bash
 composer require google/apiclient:^2.0  # Google Client Library
 ```
-## 網頁架構
+## 專案架構
 
 ```
 survey-liff/
