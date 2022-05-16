@@ -1,7 +1,7 @@
 # survey-liff
 English | [繁體中文](docs/README_zh-tw.md)
 ## About The Project
-This project is a LIFF application for surveying that utilizes Google Sheets for data storage.
+This is a LIFF application for surveying that utilizes Google Sheets for data storage.
 ### Built With
 * Google Sheets API
 * LIFF API
