@@ -28,7 +28,7 @@ survey-liff/
    ```sh
    git clone https://github.com/hqn21/survey-liff.git
    ```
-2. 安裝 Google Client Library
+2. 下載 Google Client Library
    ```sh
    composer require google/apiclient:^2.0
    ```
